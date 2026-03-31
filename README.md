@@ -88,8 +88,6 @@ Feel free to explore my projects!
 - **Automated testing** with JUnit, Mockito, Jest and Cypress
 - **AWS** cloud services — Certified AWS Developer
 
-I also apply best practices such as **SOLID, Clean Code, Clean Architecture, DDD and Scrum/Kanban**.
-
 ---
 
 ## 🏅 Certifications
