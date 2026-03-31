@@ -1,6 +1,6 @@
 # 👋 Hello! I'm **Túlio César Feldmann**
 
-I am a **Backend Java Developer** at *Saquers Tech*, with solid experience in **microservices architecture, REST APIs, Spring Boot, Quarkus, DevOps and Fintech systems**.  
+I am a **Backend Java Developer**, with solid experience in **microservices architecture, REST APIs, Spring Boot, Quarkus, DevOps and Fintech systems**.  
 I focus on building scalable, resilient and high-performance solutions for critical financial environments, always prioritizing clean architecture, automated testing and CI/CD automation.
 
 I hold a **Bachelor's degree in Information Systems from UFSM** (GPA: 9.2/10) and I'm **AWS Certified Developer**. I have hands-on experience integrating with major financial institutions such as Sicredi, Banrisul, Sicoob, Visa and Mastercard, processing high-volume transactions using event-driven messaging.
@@ -80,8 +80,8 @@ Feel free to explore my projects!
 
 ## 🚀 What I Work With
 
-- **Java 21**, Spring Boot, Quarkus and Java EE for microservices in financial ecosystems
-- **Event-Driven Architecture** with RabbitMQ and Apache Kafka
+- **Java 8, 11, 17 & 21**, Spring Boot, Quarkus and Java EE for microservices in financial ecosystems
+- **Event-Driven Architecture** with RabbitMQ
 - **Full Stack** development with React JS and Angular
 - **ISO 8583** protocol and RESTful API integrations with banks and card networks (Visa, Mastercard, Sicredi, Banrisul, Sicoob, Agibank)
 - **CI/CD pipelines** with GitHub Actions, GitLab CI/CD and ArgoCD
@@ -101,13 +101,6 @@ I also apply best practices such as **SOLID, Clean Code, Clean Architecture, DDD
 | 🦟 Dengue Monitoring Portal | Spring Boot · ReactJS · Docker | Civic platform for reporting and tracking dengue outbreak hotspots |
 | ⚙️ K8s Automated Deploy | ArgoCD · Helm · Kubernetes | GitOps-based automated deployment pipeline to Kubernetes clusters |
 | 🔗 CI/CD + Swarm & K8s Integration | GitHub Actions · Docker Swarm · Kubernetes | Multi-environment continuous delivery pipeline across container orchestrators |
-
----
-
-## 📊 GitHub Stats
-
-![Túlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuliocesarfeldmann&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliocesarfeldmann&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
