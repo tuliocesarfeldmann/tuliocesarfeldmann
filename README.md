@@ -93,17 +93,6 @@ I also apply best practices such as **SOLID, Clean Code, Clean Architecture, DDD
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| 🏦 Financial Gateway Prototype | Spring Boot · RabbitMQ · Redis · React | Microservices-based financial gateway with async messaging and caching |
-| 🦟 Dengue Monitoring Portal | Spring Boot · ReactJS · Docker | Civic platform for reporting and tracking dengue outbreak hotspots |
-| ⚙️ K8s Automated Deploy | ArgoCD · Helm · Kubernetes | GitOps-based automated deployment pipeline to Kubernetes clusters |
-| 🔗 CI/CD + Swarm & K8s Integration | GitHub Actions · Docker Swarm · Kubernetes | Multi-environment continuous delivery pipeline across container orchestrators |
-
----
-
 ## 🏅 Certifications
 
 ![AWS Certified Developer](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
