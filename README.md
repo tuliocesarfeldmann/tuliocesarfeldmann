@@ -93,7 +93,3 @@ Feel free to explore my projects!
 ## 🏅 Certifications
 
 ![AWS Certified Developer](https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-If you want to collaborate, exchange ideas or know more about my work, feel free to reach out! 😄
